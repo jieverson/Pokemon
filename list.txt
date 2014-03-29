@@ -1,0 +1,79 @@
+Xlizard (Charizard-Mega-Y) (M) @ Charizardite Y
+Ability: Droughta
+EVs: 4 HP / 252 SAtk / 252 Spd
+Timid Nature
+- Flamethrower
+- Solar Beam
+- Dragon Pulse
+- Air Slash
+
+Neko (Meowstic) @ Light Clay
+Ability: Prankster
+EVs: 251 HP / 6 SAtk / 251 SDef
+Modest Nature
+- Psychic
+- Thunder Wave
+- Light Screen
+- Reflect
+
+Ramuh (Jolteon) (M) @ Choice Specs
+Ability: Volt Absorb
+EVs: 4 HP / 252 SAtk / 252 Spd
+Modest Nature
+- Thunderbolt
+- Hidden Power [Ice]
+- Volt Switch
+- Shadow Ball
+
+Porygon3 (Porygon2) @ Eviolite
+Ability: Analytic
+EVs: 252 HP / 252 Def / 4 SDef
+Relaxed Nature
+IVs: 0 Spd
+- Tri Attack
+- Toxic
+- Substitute
+- Recover
+
+Sushi (Vaporeon) (M) @ Rocky Helmet
+Ability: Water Absorb
+EVs: 252 HP / 128 Def / 128 SDef
+Bold Nature
+- Scald
+- Ice Beam
+- Protect
+- Wish
+
+Triforce (Aegislash) (M) @ Life Orb
+Ability: Stance Change
+EVs: 252 HP / 252 Atk / 6 SDef
+Brave Nature
+IVs: 0 Spd
+- Sacred Sword
+- Shadow Sneak
+- Swords Dance
+- King's Shield
+
+Dr. Love (Ditto) @ Choice Scarf
+Ability: Imposter
+EVs: 252 HP
+- Transform
+
+Pixie (Sylveon) (F) @ Leftovers
+Ability: Cute Charm
+EVs: 252 HP / 252 Def / 4 SDef
+Bold Nature
+- Moonblast
+- Toxic
+- Protect
+- Wish
+
+Cottontail (Whimsicott) (F) @ Leftovers
+Ability: Prankster
+EVs: 252 HP / 252 Def / 4 SDef
+Careful Nature
+- Leech Seed
+- Substitute
+- Taunt
+- Encore
+
