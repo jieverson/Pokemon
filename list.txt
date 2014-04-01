@@ -77,3 +77,21 @@ Careful Nature
 - Taunt
 - Encore
 
+Tree (Trevenant) @ Sitrus Berry
+Ability: Harvest
+EVs: 252 HP / 128 Def / 128 SDef
+Careful Nature
+- Horn Leech
+- Will-O-Wisp
+- Leech Seed
+- Protect
+
+Bubble (Cloyster) @ King's Rock
+Ability: Skill Link
+EVs: 4 HP / 252 Atk / 252 Spd
+Jolly Nature
+- Icicle Spear
+- Rock Blast
+- Shell Smash
+- Hydro Pump
+
