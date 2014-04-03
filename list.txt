@@ -44,7 +44,7 @@ Bold Nature
 - Protect
 - Wish
 
-Triforce (Aegislash) (M) @ Life Orb
+Triforce (Aegislash) (M) @ Leftovers
 Ability: Stance Change
 EVs: 252 HP / 252 Atk / 6 SDef
 Brave Nature
@@ -94,4 +94,23 @@ Jolly Nature
 - Rock Blast
 - Shell Smash
 - Hydro Pump
+
+Kraken (Gyarados) @ Life Orb
+Ability: Intimidate
+Shiny: Yes
+EVs: 4 HP / 252 Atk / 252 Spd
+Adamant Nature
+- Waterfall
+- Ice Fang
+- Earthquake
+- Dragon Dance
+
+Fullmetal (Skarmory) @ Rocky Helmet
+Ability: Sturdy
+EVs: 252 HP / 252 Def / 4 SDef
+Impish Nature
+- Spikes
+- Roost
+- Brave Bird
+- Whirlwind
 
